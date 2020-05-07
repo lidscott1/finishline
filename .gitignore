@@ -1,0 +1,7 @@
+.credentials
+.credentials.yaml
+raw_data/*.csv
+analysis_data/*.csv
+.DS_Store
+.credentials.yml
+.idea/

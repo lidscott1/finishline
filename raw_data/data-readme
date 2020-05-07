@@ -1,0 +1,3 @@
+Data is stored in CSV format.  It is not included in the repo for space considerations, however the user should
+make sure to populate the data folder before running any form of analysis.  This can be done from the main analysis
+folder.
