@@ -88,7 +88,8 @@ class StatBook(object):
         return self.fpc
 
 
-    
+# Used to tranform the location column in our testing site data into a format
+# that folium can use
 def pull_loc(point):
 
     if type(point) == str:
